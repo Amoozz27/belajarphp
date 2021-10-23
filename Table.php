@@ -14,7 +14,7 @@
     <hr>
     <a href="index.php">Index</a> |
     <a href="table.php">Table</a> |
-    <a href="table.php">form</a>  |
+    <a href="form.php">form</a>  |
     <hr>
     <!-- buat tabel -->
     
