@@ -17,6 +17,8 @@
     <a href="table.php">Table</a> |
     <a href="form.php">form</a>  |
     <a href="Pengalaman.php">Pengalaman</a>  |
+    <a href="ListMahasiswa.php">List Mahasiswa</a>  |
+    <hr>
     <hr>
     <!-- buat tabel -->
     

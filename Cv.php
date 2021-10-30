@@ -13,6 +13,8 @@
     <a href="table.php">Table</a> |
     <a href="form.php">form</a>  |
     <a href="Pengalaman.php">Pengalaman</a>  |
+    <a href="ListMahasiswa.php">List Mahasiswa</a>  |
+    <hr>
     <hr>
     <h2 align=center>CURRICULUM VITAE</h2> 
     <hr>

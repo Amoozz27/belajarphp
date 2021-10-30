@@ -18,6 +18,8 @@
     <a href="table.php">Table</a> |
     <a href="Form.php">form</a>  |
     <a href="Pengalaman.php">Pengalaman</a>  |
+    <a href="ListMahasiswa.php">List Mahasiswa</a>  |
+    <hr>
 
     <hr>
     <b>Lorem Ipsum</b>  is simply <i>dummy text</i> 
