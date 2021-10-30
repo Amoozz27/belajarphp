@@ -14,8 +14,11 @@
     <!--  ini header ukuran tex h1 - h6-->
     <hr>
     <a href="index.php">Index</a> |
+    <a href="cv.php">CV</a>  |
     <a href="table.php">Table</a> |
-    <a href="table.php">form</a>  |
+    <a href="Form.php">form</a>  |
+    <a href="Pengalaman.php">Pengalaman</a>  |
+
     <hr>
     <b>Lorem Ipsum</b>  is simply <i>dummy text</i> 
     of the printing and typesetting <u>industry</u>. Lorem Ipsum has been the industry's

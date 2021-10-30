@@ -13,8 +13,10 @@
     <!--  ini header ukuran tex h1 - h6-->
     <hr>
     <a href="index.php">Index</a> |
+    <a href="cv.php">CV</a>  |
     <a href="table.php">Table</a> |
     <a href="form.php">form</a>  |
+    <a href="Pengalaman.php">Pengalaman</a>  |
     <hr>
     <!-- buat tabel -->
     
@@ -26,7 +28,7 @@
         
      -->
      <h3> Table Normal</h3>
-     <table border="1" width="50%">
+     <table border="1" width="100%">
      
      <br>
          <tr>
